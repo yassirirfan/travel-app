@@ -1,10 +1,5 @@
-import { useState, useEffect } from 'react'
- 
-function Profile() {
- 
+export default function Home() {
   return (
-    <div>
-      <h1>Hello</h1>
-    </div>
+    <h1>Hello</h1>
   )
 }
